@@ -5,7 +5,7 @@ A starting point for open source modules and bundles.
 ## Get Started
 ```sh
 # Clone this repo:
-$ git clone --depth=1 https://github.com/punkave/pk-module-boilerplate.git MYMODULE
+$ git clone --depth=1 https://github.com/apostrophecms/apostrophe-boilerplate-module.git MYMODULE
 
 #  Then remove git refs:
 $ rm -rf !$/.git
